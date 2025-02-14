@@ -258,3 +258,138 @@ Prüfungstermine: **Frühjahr** + **Herbst**
 
 ## 4. Entwickeln, Erstellen und Betreuen von IT-Lösungen
 
+### 1. IT-Systeme unter Berücksichtigung des IT-Umfeldes konzeptionieren, konfigurieren, testen und dokumentieren können
+- [ ] Bedarfsanalyse
+- [ ] Lastenheft
+	- [ ] Zweck
+	- [ ] Urheber
+	- [ ] Inhalte
+- [ ] Pflichtenheft
+	- [ ] Zweck
+	- [ ] Urheber
+	- [ ] Inhalte
+- [ ] Installation und Einrichtung von Systemen
+	- [ ] Betriebssystem
+	- [ ] BIOS / UEFI
+	- [ ] Partitionierung
+		- [ ] Volumes eg. LVM, BtrFS, Windows
+	- [ ] Formattierung
+	- [ ] Netzwerkanbindung
+	- [ ] IP (v4 + v6)
+	- [ ] Konfiguration
+	- [ ] Remote-Desktop
+	- [ ] KI-Software
+
+### 2. Bedarfsgerechte Auswahl von Hardware vornehmen und begründen können
+
+- [ ] Geräteklassen
+	- [ ] Desktops
+	- [ ] Notebooks
+	- [ ] All-in-One's
+	- [ ] Thin Clients
+	- [ ] Tablets
+	- [ ] Smartphones
+- [ ] Mobile und stationäre Arbeitsplatzsysteme
+	- [ ] PC
+	- [ ] Terminals
+	- [ ] LAN
+	- [ ] WLAN
+- [ ] Barrierefreiheit
+	- [ ] Ergonomische Hardware und Arbeitsplatz
+	- [ ] Lautsprecher
+	- [ ] Microphone
+
+### 3. Bedarfsgerechte Auswahl von Software vornehmen und begründen können
+
+- [ ] Anwendungssoftware
+- [ ] Betriebssysteme
+	- [ ] Einsatzzweck
+	- [ ] Filemanagement
+	- [ ] Netzwerk-Freigaben
+- [ ] IDEs -> Integrierte Entwicklungsumgebungen
+- [ ] Standard- oder Individualsoftware
+- [ ] Open Source Software
+- [ ] Proprietäre Software
+- [ ] Beurteilungskriterien
+	- [ ] Anpassbarkeit
+	- [ ] Wartbarkeit
+	- [ ] Schnittstellen
+- [ ] KI-Software
+
+### 4. Urhebergesetz kennen und Lizenzmodelle unterscheiden können
+
+- [ ] Grundlagen des Urheber-Schutzes
+- [ ] Lizenzarten
+	- [ ] EULA
+	- [ ] OEM
+	- [ ] GNU
+		- [ ] GPL
+- [ ] Pay-per-Use
+
+### 5. Programmiersprachen mit folgenden Merkmalen kennen, einordnen und unterscheiden können
+
+- [ ] Build-Tools
+	- [ ] Compiler
+	- [ ] Linker
+	- [ ] Interpreter
+- [ ] Prozedurale und objektorientierte Herangehensweise
+- [ ] Sprachkonzepte
+	- [ ] Variablen
+	- [ ] Datentypen und -strukturen
+	- [ ] Kontrollstrukturen
+		- [ ] Verzweigungen
+		- [ ] Schleifen
+	- [ ] Prozeduren und Funktionen
+	- [ ] Klassen
+		- [ ] Attribute / Eigenschaften
+		- [ ] Objektinstanzen
+		- [ ] Methoden
+		- [ ] Sichtbarkeit
+	- [ ] Bibliotheken und Frameworks
+- [ ] Skriptsprachen
+	- [ ] Bash
+	- [ ] Powershell
+	- [ ] Python?
+- [ ] Debugging
+	- [ ] Methoden
+
+### 7. Programmierwerkzeuge kennen und anwenden können
+
+- [ ] Pseudocode
+- [ ] UML
+	- [ ] Use-Case Diagram -> Anwendungsfalldiagramm
+	- [ ] Class Diagram -> Klassendiagramm
+	- [ ] Activity Diagram -> Aktivitätsdiagramm
+- [ ] Entwurf von Bildschirmausgabemasken??? -> GUIs
+	- [ ] Corporate Identity
+	- [ ] Barrierefreiheit
+	- [ ] Softwareergonomie
+- [ ] Fehler in Quellcode finden
+- [ ] Schreibtischtest durchführen
+
+### 8. Grundlagen von relationalen Datenbanken kennen und anwenden können
+
+- [ ] Einfache ER-Diagramme
+
+## 5. Durchführen und Dokumentieren von qualitätssicherden Maßnahmen
+
+### 1. Grundverständnis zu folgenden Fachbegriffen nachweisen
+
+- [ ] Betriebliche QM-Systeme
+- [ ] QS-Normen
+- [ ] Zertifizierung
+
+### 2. Maßnahmen des Qualitätsmanagements für den eigenen Arbeitsbereich kennen, planen und anwenden können
+
+- [ ] Qualitätsplanung
+- [ ] Qualitätsziele
+- [ ] Ist-Zustand ermitteln können
+- [ ] Soll-Zustand definieren können
+- [ ] Qualitätslenkung (Umsetzung der Planphase)
+- [ ] PDCA -> Plan, Do, Check, Act als Qualitätsmanagementszyklus
+- [ ] Testprotokoll für das Einrichten eines Arbeitsplatzes
+
+## 6. Umsetzen, Integrieren und Prüfen von Maßnahmen zur IT-Sicherheit und zum Datenschutz
+
+### 1. Regelungen zur IT-Sicherheit auf Grundschutzniveau im eigenen Arbeitsbereich analysieren, anwenden und ihre Einhaltung überprüfen
+
